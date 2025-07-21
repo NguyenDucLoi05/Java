@@ -24,11 +24,11 @@ public class ArrayList_4 {
                 min2 = min1;
             }
         }
-        if (max2 == -1000) {
+        if (max2 == -999) {
             System.out.println("khong co gia tri lon t2");
             return;
         }
-        if (min2 == 1000) {
+        if (min2 == 999) {
             System.out.println("khong co gia tri nho thu 2");
             return;
         }
