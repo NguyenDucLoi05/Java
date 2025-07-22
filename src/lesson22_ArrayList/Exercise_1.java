@@ -1,8 +1,6 @@
-package lesson22_ArrayListAndHashmap;
+package lesson22_ArrayList;
 
-import java.awt.*;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 public class Exercise_1 {
